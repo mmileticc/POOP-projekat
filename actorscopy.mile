@@ -1,0 +1,36 @@
+4
+actors 9 4
+idAc name surname age
+1 Brad Pit 60
+2 Angelina Jolie 55
+3 Will Smith 55
+4 Jada Smith 50
+5 Leonardo DiCaprio 50
+6 Danzel Washington 65
+7 Jennifer Aniston 50
+8 Johnny Depp 60
+10 Ryan Reynolds 50
+roles 12 2
+idAct characterName
+2 Jane_Smith
+1 John_Smith
+5 Jordan_Bellfort
+3 Muhamed_Ali
+7 Rachel_Green
+1 John_Black
+2 Lara_Croft
+5 Jack_Titanic
+6 Robert_Macol_Equalizer
+8 Edward_Scissorhands
+6 Frank_Lucas
+8 Jack_Sparrow
+movies 4 2
+idMov name
+10 Titanic
+2 Deadpool
+3 Deadpool2
+6 Deadpool3
+producer 2 3
+idProd name surname
+1 Quentin Tarantino
+2 Christopher Nolan
